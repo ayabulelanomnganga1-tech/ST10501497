@@ -8,4 +8,4 @@ The project is focused on ensuring that the user inserts valid information, that
 This project is part of my Part 1 for my Programming PoE.
 
 ## Features
-* Username Validatio: Ensures that the user only inserts a username that has an underscore (_) and is not longer than five characters.
+* ###Username Validation###: Ensures that the user only inserts a username that has an underscore (_) and is not longer than five characters.
