@@ -1,4 +1,5 @@
-### Student No.: ST10501497
+## Author:
+### Student Number: ST10501497
 ### Project: chatapp PoE (Prog)
 ### Institution: Rosebank College
 
