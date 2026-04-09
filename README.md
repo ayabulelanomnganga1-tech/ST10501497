@@ -14,8 +14,8 @@ This project is part of my Part 1 for my Programming PoE.
 * **Automated Testing:** Used JUnit 5 to test the validation logic, ensure that the methods work as expected.
 
 ## How To Run
-1. Clone or Download the ZIP, then extract files.
-2. Open Apache NetBeans and open the project via the **File** tab.
-3. Clean and Build the project.
-4. Click the green "play" button to run the file
-5. Right click on the project and select "Test" to test
+1. **Clone or Download** the ZIP, then extract files.
+2. **Open** Apache NetBeans and open the project via the **File** tab.
+3. **Clean and Build** the project.
+4. **Run** the file by clicking the green "play" button.
+5. **Test** by right clicking on the project and selecting "Test".
